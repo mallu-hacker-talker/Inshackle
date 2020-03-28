@@ -1,6 +1,5 @@
 # Inshackle v1.0
-# recoded by: DARK DEVIL
-# github.com/Dark-Devill/inshackle
+# recoded by: Cyber Attack
 # If you use any part from this code, give me the credits, please, read the License
 
 
@@ -30,7 +29,7 @@ printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`8
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by Dark Devil (thanks to linuxchoice )\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by Cyber Attack (thanks to linuxchoice )\e[0m\n"
 }
 
 
